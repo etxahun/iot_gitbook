@@ -22,4 +22,5 @@
    * Z-Wave
    * ZigBee
 * [Backbone](backbone.md)
+* Hardware
 
