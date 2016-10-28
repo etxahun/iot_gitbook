@@ -14,4 +14,5 @@
    * Dash7
    * Ethernet
    * GPRS
+   * PLC/Powerline
 
