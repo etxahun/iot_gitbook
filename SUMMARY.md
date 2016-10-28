@@ -10,4 +10,5 @@
    * Wi-Fi
    * 3G
    * 4G LTE
+   * ANT
 
