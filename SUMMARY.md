@@ -30,4 +30,5 @@
    * [CoAP](coap.md)
 * [Arquitecturas](arquitecturas.md)
 * [Seguridad](seguridad.md)
+* Laboratorio
 
