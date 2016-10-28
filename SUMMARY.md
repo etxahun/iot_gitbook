@@ -5,4 +5,5 @@
 * [Technologies](technologies.md)
    * RFID
    * EnOcean
+   * NFC
 
