@@ -2,7 +2,6 @@
 
 A continuación una serie de conceptos técnicos:
 
-
 ## Web of Things (WoT)
 ---
 The Web of Things (WoT) is a term used to describe approaches, software architectural styles and programming patterns that allow real-world objects to be part of the World Wide Web. Similarly to what the Web (Application Layer) is to the Internet (Network Layer),[1] the Web of Things provides an Application Layer that simplifies the creation of Internet of Things applications.
