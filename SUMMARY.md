@@ -7,4 +7,5 @@
    * EnOcean
    * NFC
    * Bluetooth
+   * Wi-Fi
 
