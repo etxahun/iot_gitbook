@@ -18,4 +18,5 @@
    * QR Codes / EPC
    * WiMax
    * X-10
+   * 802.15.4
 
