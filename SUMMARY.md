@@ -13,4 +13,5 @@
    * ANT
    * Dash7
    * Ethernet
+   * GPRS
 
