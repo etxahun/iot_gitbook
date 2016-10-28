@@ -28,5 +28,5 @@
    * [TinyOS](tinyos.md)
 * [Protocols](protocols.md)
    * [CoAP](coap.md)
-* Arquitecturas
+* [Arquitecturas](arquitecturas.md)
 
