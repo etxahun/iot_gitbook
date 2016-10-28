@@ -16,4 +16,5 @@
    * GPRS
    * PLC/Powerline
    * QR Codes / EPC
+   * WiMax
 
