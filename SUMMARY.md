@@ -31,5 +31,5 @@
 * [Arquitecturas](arquitecturas.md)
 * [Seguridad](seguridad.md)
 * [Laboratorio](laboratorio.md)
-   * TinyOS
+   * [TinyOS](Lab-tinyos.md)
 
