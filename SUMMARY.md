@@ -6,4 +6,5 @@
    * RFID
    * EnOcean
    * NFC
+   * Bluetooth
 
