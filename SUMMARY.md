@@ -17,4 +17,5 @@
    * PLC/Powerline
    * QR Codes / EPC
    * WiMax
+   * X-10
 
