@@ -15,4 +15,5 @@
    * Ethernet
    * GPRS
    * PLC/Powerline
+   * QR Codes / EPC
 
