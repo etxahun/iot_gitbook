@@ -33,5 +33,5 @@
 * [Laboratorio](laboratorio.md)
    * [TinyOS](Lab-tinyos.md)
    * [Contiki](Lab-contiki.md)
-* Referencias
+* [Referencias](referencias.md)
 
