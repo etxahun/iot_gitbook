@@ -12,4 +12,5 @@
    * 4G LTE
    * ANT
    * Dash7
+   * Ethernet
 
