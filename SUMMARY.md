@@ -25,5 +25,5 @@
 * [Hardware](hardware.md)
    * [MEMSIC](memsic.md)
 * [OS/Software](ossoftware.md)
-   * TinyOS
+   * [TinyOS](tinyos.md)
 
