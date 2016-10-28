@@ -8,4 +8,5 @@
    * NFC
    * Bluetooth
    * Wi-Fi
+   * 3G
 
