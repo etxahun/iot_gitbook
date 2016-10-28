@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* Conceptos Técnicos
+* [Conceptos Técnicos](conceptos_tecnicos.md)
 
