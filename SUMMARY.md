@@ -23,5 +23,5 @@
    * ZigBee
 * [Backbone](backbone.md)
 * [Hardware](hardware.md)
-   * MEMSIC
+   * [MEMSIC](memsic.md)
 
