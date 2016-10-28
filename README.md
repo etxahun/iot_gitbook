@@ -1,4 +1,4 @@
-# Internet of Things
+# Description
 
 Estudio relacionado con las tecnologías asociadas al paradigma de "Internet of Things".
 
