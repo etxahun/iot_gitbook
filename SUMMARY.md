@@ -11,4 +11,5 @@
    * 3G
    * 4G LTE
    * ANT
+   * Dash7
 
