@@ -34,5 +34,5 @@
    * [TinyOS](Lab-tinyos.md)
    * [Contiki](Lab-contiki.md)
 * [Referencias](referencias.md)
-* Pendiente Revisar
+* [Pendiente Revisar](pendiente_revisar.md)
 
